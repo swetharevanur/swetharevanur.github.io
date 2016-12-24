@@ -4,7 +4,7 @@ subtitle: by Swetha Revanur
 email: youremailaddress@gmail.com
 description: A data visualization portfolio by Swetha Revanur.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
+url: "https://swetharevanur.github.io" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
