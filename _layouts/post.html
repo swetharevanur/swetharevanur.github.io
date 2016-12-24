@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 
+{% if post.nav-menu == 'true' %}
+
 {% include head.html %}
 
 <body>
@@ -27,5 +29,7 @@
     {% include footer.html %}
 
 </body>
+
+{% endif %}
 
 </html>
