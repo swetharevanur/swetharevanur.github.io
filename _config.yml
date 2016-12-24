@@ -15,7 +15,7 @@ url: "https://swetharevanur.github.io" # the base hostname & protocol for your s
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 2
 
 # Social settings
 500px_url:
