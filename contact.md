@@ -1,6 +1,5 @@
 ---
 layout: contact
-title: Landing
-description: All posts
+title: Contact
 nav-menu: true
 ---
