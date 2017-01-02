@@ -363,12 +363,9 @@ Finally, this is a <a href="#">link</a>.</p>
 <span class="image fit"><img src="assets/images/pic03.jpg" alt="" /></span>
 <div class="box alt">
 	<div class="row 50% uniform">
-		
-		<a href="https://olivermak.es/">
-  <img src="https://olivermak.es/resources/icons/favicon144.svg" width="100%" height="144">
-</a>
-		<div class="4u"><span class="image fit"><img src="assets/images/mapJul13.svg.jpg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="assets/images/mapJul10.svg.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/mapJul13.svg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/mapJul13.svg" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="assets/images/mapJul10.svg" alt="" /></span></div>
 		<!-- Break -->
 		<div class="4u"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
