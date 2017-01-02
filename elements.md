@@ -363,7 +363,7 @@ Finally, this is a <a href="#">link</a>.</p>
 <span class="image fit"><img src="assets/images/pic03.jpg" alt="" /></span>
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="assets/images/mapJul16.svg.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="https://drive.google.com/file/d/0B0r6ocuCmEmFbl80TktOXzB4Ync/view?usp=sharing" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="assets/images/mapJul13.svg.jpg" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="assets/images/mapJul10.svg.jpg" alt="" /></span></div>
 		<!-- Break -->
