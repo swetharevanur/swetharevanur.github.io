@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mapping County-Level Unemployment
+title: County-Level Unemployment
 description: adapted from "Visualize This"
 image: assets/images/1_bigmac/mcdonalds_exterior2.jpg
 ---
