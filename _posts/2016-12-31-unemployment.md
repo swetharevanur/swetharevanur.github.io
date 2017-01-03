@@ -2,7 +2,7 @@
 layout: post
 title: Mapping Unemployment
 description: County-Level Chloropleth
-image: assets/images/1_bigmac/mcdonalds_exterior2.jpg
+image: assets/images/unemployment/map.svg
 ---
 
 The U.S. Bureau of Labor Statistics releases county-level unemployment rates each month. The chloropleth map below was generated using XML parsing libraries in Python, and shows data from August 2010.
