@@ -9,5 +9,5 @@ The U.S. Bureau of Labor Statistics releases county-level unemployment rates eac
 
 <div class="4u"><img src="https://swetharevanur.github.io/assets/images/unemployment/map.svg" alt="" /></div>
 
-<p><small>Adapted from Nathan Yau's "Visualize This"</small></p>
+Adapted from Nathan Yau's "Visualize This".
 
