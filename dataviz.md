@@ -1,5 +1,5 @@
 ---
-title: DATA VIZ
+title: Data Viz
 layout: dataviz
 nav-menu: true
 ---
