@@ -1,6 +1,6 @@
 **Swetha Revanur's Personal Website**
 
-Built using Jekyll. Includes project timeline, data visualization portfolio, and contact form.
+Built using Jekyll. Includes project timeline and data visualization portfolio, along with contact form.
 
 **Credits**
 
