@@ -27,7 +27,7 @@
 		{% endfor %}
 		{% for page in site.pages %}
 		    {% if page.layout != "home" %}
-			{% if page.nav-menu == "true" %}
+			{% if page.nav-menu == true %}
 		        	<li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
 			{% endif %}
 		    {% endif %}
