@@ -1,4 +1,4 @@
-**Swetha Revanur's Personal Website**
+# Swetha Revanur's Personal Website
 
 Built using Jekyll. Includes project timeline and data visualization portfolio, along with contact form.
 
