@@ -1,5 +1,5 @@
 ---
 title: About
-layout: connect
+layout: about
 nav-menu: true
 ---
