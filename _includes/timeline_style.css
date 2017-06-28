@@ -67,7 +67,7 @@ Main components
   left: 18px;
   height: 100%;
   width: 4px;
-  background: #d7e4ed;
+  background: #ffffff;
 }
 @media only screen and (min-width: 1170px) {
   #cd-timeline {
@@ -127,13 +127,13 @@ Main components
   margin-top: -12px;
 }
 .cd-timeline-img.cd-picture {
-  background: #53e3fb;
+  background: #75ce66;
 }
 .cd-timeline-img.cd-movie {
-  background: #53e3fb;
+  background: #c03b44;
 }
 .cd-timeline-img.cd-location {
-  background: #53e3fb;
+  background: #f0ca45;
 }
 @media only screen and (min-width: 1170px) {
   .cd-timeline-img {
@@ -213,7 +213,7 @@ Main components
   background: #ffffff;
   border-radius: 0.25em;
   padding: 1em;
-  box-shadow: 0 3px 0 #d7e4ed;
+  box-shadow: 0 3px 0 #ffffff;
 }
 .cd-timeline-content::after {
   clear: both;
