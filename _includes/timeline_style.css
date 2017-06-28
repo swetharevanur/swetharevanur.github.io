@@ -14,10 +14,6 @@ html * {
   box-sizing: border-box;
 }
 
-body {
-  color: #7f8c97;
-}
-
 img {
   max-width: 100%;
 }
