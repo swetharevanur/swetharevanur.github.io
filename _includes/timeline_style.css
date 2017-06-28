@@ -126,15 +126,10 @@ Main components
   margin-left: -12px;
   margin-top: -12px;
 }
-.cd-timeline-img.cd-hp {
-  background: #ffffff;
-}
-.cd-timeline-img.cd-stanmed {
+.cd-timeline-img {
   background: #c03b44;
 }
-.cd-timeline-img.cd-location {
-  background: #f0ca45;
-}
+
 @media only screen and (min-width: 1170px) {
   .cd-timeline-img {
     width: 60px;
