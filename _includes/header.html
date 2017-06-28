@@ -5,7 +5,10 @@
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
 	<a href="{{ "" | absolute_url }}" class="logo">
 		<strong>{{ page.title }}</strong> 
-		<span>{{ {% if page.layout == "about" %} site.subtitle2 }{% endif %}{% if page.layout 1= "about" %} site.subtitle1{% endif %}}</span>
+		<span> 
+			{{{% if page.layout == "about" %} site.subtitle2 {% endif %}
+			{% if page.layout 1= "about" %} site.subtitle1 {% endif %}}}
+		</span>
 	</a>
 	<nav>
 		<a href="#menu">Menu</a>
