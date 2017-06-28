@@ -18,13 +18,12 @@
 	    	{% endif %}
 		{% endfor %}
 		{% for page in site.pages %}
-		    {% if page.layout != "home" %}
+		    {% if page.layout == "about" || page.layout == "dataviz" || page.layout == "projects" %}
 		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
 		    {% endif %}
 		{% endfor %}
 	</ul>
-	<!--<ul class="actions vertical">
-		<li><a href="#" class="button special fit">Get Started</a></li>
-		<li><a href="#" class="button fit">Log In</a></li>
-	</ul>-->
+	<ul class="actions vertical">
+		<li><a href="http://linkedin.com/in/swetharevanur" class="button special fit">Connect on LinkedIn</a></li>
+	</ul>
 </nav>
