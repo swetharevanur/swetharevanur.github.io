@@ -8,13 +8,9 @@ date: Jun 2017 - Present
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 		<div class="box">
-			<italic>Emerging Compute Lab, HP Inc.</italic>
-			<br>
-			<strong>Technologies:</strong> R 
-			<br>
-			<strong>Role:</strong> led
-			<br>
-			<strong>Honors:</strong> featured in HP innovation journal
+			<b><i>Emerging Compute Lab, HP Inc.</i></b>
+			<br><br>
+			<strong>Project in progress.</strong> 
 		</div>
 	</div>
 </div>

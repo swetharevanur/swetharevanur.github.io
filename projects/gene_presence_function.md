@@ -8,7 +8,7 @@ date: Jun 2014 - Sept 2015
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 		<div class="box">
-			<italic>Curtis Lab, Stanford School of Medicine.</italic>
+			<b><i>Curtis Lab, Stanford School of Medicine.</i></b>
 			<br><br>
 			<strong>Technologies:</strong> R 
 			<br>

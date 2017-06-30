@@ -8,8 +8,8 @@ date: Jun 2015 - May 2016
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 		<div class="box">
-			<italic>Fraser Lab, National Institutes of Health.</italic>
-			<br>
+			<b><i>Fraser Lab, National Institutes of Health</i></b>
+			<br><br>
 			<strong>Technologies:</strong> R 
 			<br>
 			<strong>Role:</strong> led
