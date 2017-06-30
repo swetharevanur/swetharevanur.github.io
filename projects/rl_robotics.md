@@ -1,6 +1,6 @@
 ---
-layout: project_info
 title: Reinforcement Learning for Optimized Robotic Manipulation and Interaction
+layout: project_info
 date: Jun 2017 - Present
 ---
 
