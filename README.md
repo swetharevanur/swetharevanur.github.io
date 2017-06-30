@@ -2,7 +2,7 @@
 
 Built using Jekyll. Includes project timeline and data visualization portfolio, along with contact form.
 
-Last updated 06/28/2017.
+Last updated 06/30/2017.
 
 **Credits**
 
