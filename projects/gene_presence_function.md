@@ -1,8 +1,8 @@
 ---
-title: Enabling Ambient Intelligence - Simulating Sensor Events
-short: Sensor Simulations
+title: Enabling Precision Medicine with Big Data - A Cross-Platform Framework to Computationally Characterize Gene Presence and Function
+short: Big Data-Driven Precision Medicine
 layout: project_info
-date: Jun 2016 - Sept 2016
+date: Jun 2014 - Sept 2015
 ---
 
 The U.S. Bureau of Labor Statistics releases county-level unemployment rates each month. The chloropleth map below was generated using XML parsing libraries to manipulate SVGs in Python, and shows data from August 2010.
