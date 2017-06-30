@@ -1,6 +1,7 @@
 ---
-layout: project_info
 title: Enabling Precision Medicine with Big Data: A Cross-Platform Framework to Computationally Characterize Gene Presence and Function
+short: Precision Medicine with Big Data
+layout: project_info
 date: Jun 2014 - Sept 2015
 ---
 
