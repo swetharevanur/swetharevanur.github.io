@@ -9,3 +9,5 @@ Last updated 06/28/2017.
 [Andrew Banchich](https://andrewbanchich.gitlab.io/forty-jekyll-theme/)
 
 [Nathan Randecker](https://github.com/nrandecker/particle)
+
+[CodyHouse](https://codyhouse.co/)
