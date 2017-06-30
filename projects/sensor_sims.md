@@ -1,6 +1,6 @@
 ---
 title: Enabling Ambient Intelligence: Simulating Sensor Events
-short: Sensor Simulations
+short: RL for Roboticstest
 layout: project_info
 date: Jun 2016 - Sept 2016
 ---
