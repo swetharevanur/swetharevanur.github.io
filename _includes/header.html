@@ -4,9 +4,7 @@
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
 	<a href="{{ "" | absolute_url }}" class="logo">
-		{% if page.layout == "project_info" %} 
-			<strong>{{ page.short }}</strong> 
-		{% endif %}
+		<strong>{{ page.short }}</strong> 
 		{% if page.layout != "project_info" %} 
 			<strong>{{ page.title }}</strong> 
 		{% endif %} 
