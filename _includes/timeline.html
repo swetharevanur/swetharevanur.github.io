@@ -1,20 +1,52 @@
 <section id="cd-timeline" class="cd-container">
-        {% for project in site.projects limit:site.tiles-count %}
-        {% if site.tiles-source == 'projects' %}
         <div class="cd-timeline-block">
                 <div class="cd-timeline-img">
                         <img src="assets/images/code.png" alt="Picture">
                 </div> <!-- cd-timeline-img -->
 
                 <div class="cd-timeline-content">
-                        <h2>{{ project.title }}</h2>
-                        <a href="{{ project.url | relative_url }}" class="button special">Read more</a>
-                        <span class="cd-date">{{ project.date }}</span>
+                        <h2>Reinforcement Learning for Optimized Robotic Manipulation and Interaction</h2>
+                        <a href="_/projects/rl_robotics.html" class="button special">Read more</a>
+                        <span class="cd-date">Jun 2017 - Present</span>
                 </div> <!-- cd-timeline-content -->
         </div> <!-- cd-timeline-block -->
-        {% endif %}
-        {% endfor %}
-        
+
+        <div class="cd-timeline-block">
+                <div class="cd-timeline-img">
+                        <img src="assets/images/code.png" alt="Picture">
+                </div> <!-- cd-timeline-img -->
+
+                <div class="cd-timeline-content">
+                        <h2>Enabling Ambient Intelligence: Simulating Sensor Events</h2>
+                        <a href="_/projects/sensor_sims.html" class="button special">Read more</a>
+                        <span class="cd-date">Jun 2016 - Sept 2016</span>
+                </div> <!-- cd-timeline-content -->
+        </div> <!-- cd-timeline-block -->
+
+        <div class="cd-timeline-block">
+                <div class="cd-timeline-img">
+                        <img src="assets/images/code.png" alt="Movie">
+                </div> <!-- cd-timeline-img -->
+
+                <div class="cd-timeline-content">
+                        <h2>A Machine Learning Framework for Multi-Omics Discovery and Characterization of Gene Co-Alterations</h2>
+                        <a href="#" class="button special">Read more</a>
+                        <span class="cd-date">Jun 2015 - May 2016</span>
+                </div> <!-- cd-timeline-content -->
+        </div> <!-- cd-timeline-block -->
+
+        <div class="cd-timeline-block">
+                <div class="cd-timeline-img">
+                        <img src="assets/images/code.png" alt="Movie">
+                </div> <!-- cd-timeline-img -->
+
+                <div class="cd-timeline-content">
+                        <h2>Enabling Precision Medicine with Big Data: A Cross-Platform Framework to Computationally Characterize Gene Presence and Function</h2>
+                        <a href="#" class="button special">Read more</a>
+                        <span class="cd-date">Jun 2014 - Sept 2015</span>
+                </div> <!-- cd-timeline-content -->
+        </div> <!-- cd-timeline-block -->
+
 </section> <!-- cd-timeline -->
 
 <style type="text/css">
