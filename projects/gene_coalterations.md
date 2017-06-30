@@ -5,4 +5,16 @@ layout: project_info
 date: Jun 2015 - May 2016
 ---
 
-Filler.
+<div class="row 200%">
+	<div class="6u 12u$(medium)">
+		<div class="box">
+			<italic>Fraser Lab, National Institutes of Health.</italic>
+			<br>
+			<strong>Technologies:</strong> R 
+			<br>
+			<strong>Role:</strong> led
+			<br>
+			<strong>Honors:</strong> featured in HP innovation journal
+		</div>
+	</div>
+</div>

@@ -8,9 +8,9 @@ date: Jun 2016 - Sept 2016
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 		<div class="box">
-			<strong>Languages:</strong> R 
+			<italic>Emerging Compute Lab, HP Inc.</italic>
 			<br>
-			<strong>Where:</strong> internship
+			<strong>Technologies:</strong> R 
 			<br>
 			<strong>Role:</strong> led
 			<br>
