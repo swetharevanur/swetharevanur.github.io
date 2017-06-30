@@ -1,5 +1,6 @@
 <section id="cd-timeline" class="cd-container">
-        {% for project in site.projects %}
+        {% for project in site.projects limit:site.tiles-count %}
+        {% if site.tiles-source == 'projects' %}
         <div class="cd-timeline-block">
                 <div class="cd-timeline-img">
                         <img src="assets/images/code.png" alt="Picture">
@@ -11,6 +12,7 @@
                         <span class="cd-date">{{ project.date }}</span>
                 </div> <!-- cd-timeline-content -->
         </div> <!-- cd-timeline-block -->
+        {% endif %}
         {% endfor %}
         
 </section> <!-- cd-timeline -->
