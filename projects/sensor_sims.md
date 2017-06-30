@@ -10,9 +10,15 @@ date: Jun 2016 - Sept 2016
 		<div class="box">
 			<b><i>Emerging Compute Lab, HP Inc.</i></b>
 			<br><br>
-			<strong>Technologies:</strong>
+			<strong>Technologies:</strong> R
 			<br>
-			<strong>Role:</strong>
+			<strong>Contributions:</strong> conducted independently
+			<br>
+			<strong>Honors:</strong>
+			<ul>
+				<li><i>Aug 2016, </i>Featured in HP Innovation Journal</li>
+				<li><i>Jun 2016, </i>Featured in <a href="https://newsblog.ext.hp.com/t5/HP-newsroom-blog/Summer-2016-interns-at-HP-Labs-Swetha-Revanur/ba-p/367#.V9y2gfkrKM9">HP Intern Profile</a></li>
+			</ul>
 		</div>
 	</div>
 </div>

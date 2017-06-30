@@ -10,9 +10,9 @@ date: Jun 2014 - Sept 2015
 		<div class="box">
 			<b><i>Fraser Lab, National Institutes of Health</i></b>
 			<br><br>
-			<strong>Technologies:</strong> 
+			<strong>Technologies:</strong> R, high-performance computing clusters
 			<br>
-			<strong>Role:</strong>
+			<strong>Contributions:</strong> conducted independently
 			<br>
 			<strong>Honors:</strong>
 			<ul>
