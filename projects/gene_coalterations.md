@@ -18,3 +18,5 @@ date: Jun 2015 - May 2016
 		</div>
 	</div>
 </div>
+
+<iframe src="https://docs.google.com/document/d/11J7ryto7BB7vAJiT5liUejtMObmnPvQTdkR9t6nTiAw/pub?embedded=true"></iframe>
