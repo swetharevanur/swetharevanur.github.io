@@ -1,5 +1,5 @@
 ---
-title: Enabling Ambient Intelligence: Simulating Sensor Events
+title: Enabling Ambient Intelligence - Simulating Sensor Events
 short: Sensor Simulations
 layout: project_info
 date: Jun 2017 - Present
