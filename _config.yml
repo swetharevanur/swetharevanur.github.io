@@ -16,7 +16,7 @@ url: "https://swetharevanur.github.io" # the base hostname & protocol for your s
 # country: 
 # phone: 
 
-# Homepage tiles
+# Data Viz page tiles
 tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
