@@ -8,13 +8,20 @@ date: Jun 2015 - May 2016
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 		<div class="box">
-			<b><i>Fraser Lab, National Institutes of Health</i></b>
+			<b><i>Curtis Lab, Stanford School of Medicine</i></b>
 			<br><br>
-			<strong>Technologies:</strong> R 
+			<strong>Technologies:</strong>
 			<br>
-			<strong>Role:</strong> led
+			<strong>Role:</strong>
 			<br>
-			<strong>Honors:</strong> featured in HP innovation journal
+			<strong>Honors:</strong>
+			<ul>
+				<li><i>Dec 2016, </i>Invited Speaker, Nobel Prize Ceremonies</li>
+				<li><i>May 2016, </i>Invited Speaker, Stanford Big Data in Biomedicine Conference</li>
+				<li><i>May 2016, </i>Best of Category Award, Intel International Science and Engineering Fair</li>
+				<li><i>May 2016, </i>Dudley R. Herschbach SIYSS Award, Intel International Science and Engineering Fair</li>
+				<li><i>Mar 2016, </i>Grand Prize Winner in Biological Sciences, Synopsys Science and Technology Championship</li>
+			</ul>
 		</div>
 	</div>
 

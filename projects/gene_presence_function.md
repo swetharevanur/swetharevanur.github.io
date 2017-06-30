@@ -8,13 +8,24 @@ date: Jun 2014 - Sept 2015
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 		<div class="box">
-			<b><i>Curtis Lab, Stanford School of Medicine.</i></b>
+			<b><i>Fraser Lab, National Institutes of Health</i></b>
 			<br><br>
 			<strong>Technologies:</strong> R 
 			<br>
 			<strong>Role:</strong> led
 			<br>
-			<strong>Honors:</strong> featured in HP innovation journal
+			<strong>Honors:</strong>
+			<ul>
+				<li></li>
+				<li></li>
+				<li></li>
+				<li></li>
+			</ul>
 		</div>
+	</div>
+
+	
+	<div class="6u 12u$(medium)">
+		<iframe src="https://docs.google.com/document/d/11J7ryto7BB7vAJiT5liUejtMObmnPvQTdkR9t6nTiAw/pub?embedded=true" height="500px" width = "100%"></iframe>
 	</div>
 </div>
