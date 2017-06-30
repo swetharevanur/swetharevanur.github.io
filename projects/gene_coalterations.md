@@ -10,7 +10,7 @@ date: Jun 2015 - May 2016
 		<div class="box">
 			<b><i>Curtis Lab, Stanford School of Medicine</i></b>
 			<br><br>
-			<strong>Technologies:</strong> R, high-performance computing clusters
+			<strong>Technologies:</strong> R, high-performance computing
 			<br>
 			<strong>Contributions:</strong> conducted independently
 			<br>
