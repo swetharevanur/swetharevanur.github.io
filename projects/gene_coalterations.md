@@ -17,6 +17,10 @@ date: Jun 2015 - May 2016
 			<strong>Honors:</strong> featured in HP innovation journal
 		</div>
 	</div>
+
+	<div class="6u 12u$(medium)">
+		<iframe src="https://docs.google.com/document/d/11J7ryto7BB7vAJiT5liUejtMObmnPvQTdkR9t6nTiAw/pub?embedded=true" height="60%" width = "80%"></iframe>
+	</div>
 </div>
 
-<iframe src="https://docs.google.com/document/d/11J7ryto7BB7vAJiT5liUejtMObmnPvQTdkR9t6nTiAw/pub?embedded=true" height="60%" width = "80%"></iframe>
+
