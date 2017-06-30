@@ -1,6 +1,6 @@
 ---
-title: Reinforcement Learning for Optimized Robotic Manipulation and Interaction
-short: RL for Robotics
+title: Enabling Ambient Intelligence: Simulating Sensor Events
+short: Sensor Simulations
 layout: project_info
 date: Jun 2017 - Present
 ---
