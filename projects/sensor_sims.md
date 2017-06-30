@@ -10,11 +10,9 @@ date: Jun 2016 - Sept 2016
 		<div class="box">
 			<b><i>Emerging Compute Lab, HP Inc.</i></b>
 			<br><br>
-			<strong>Technologies:</strong> R 
+			<strong>Technologies:</strong>
 			<br>
-			<strong>Role:</strong> led
-			<br>
-			<strong>Honors:</strong> featured in HP innovation journal
+			<strong>Role:</strong>
 		</div>
 	</div>
 </div>

@@ -18,8 +18,9 @@ date: Jun 2015 - May 2016
 			<ul>
 				<li><i>Dec 2016, </i>Invited Speaker, Nobel Prize Ceremonies</li>
 				<li><i>May 2016, </i>Invited Speaker, Stanford Big Data in Biomedicine Conference</li>
-				<li><i>May 2016, </i>Best of Category Award, Intel International Science and Engineering Fair</li>
 				<li><i>May 2016, </i>Dudley R. Herschbach SIYSS Award, Intel International Science and Engineering Fair</li>
+				<li><i>May 2016, </i>Best of Category Award, Intel International Science and Engineering Fair</li>
+				<li><i>May 2016, </i>Second Award, American Statistical Association</li>
 				<li><i>Mar 2016, </i>Grand Prize Winner in Biological Sciences, Synopsys Science and Technology Championship</li>
 			</ul>
 		</div>
