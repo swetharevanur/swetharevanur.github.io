@@ -2119,7 +2119,7 @@
 /* Box */
 
 	.box {
-		border: solid 8px rgba(212, 212, 255, 0.1);
+		border: solid 5px rgba(212, 212, 255, 0.1);
 		margin-bottom: 2em;
 		padding: 1.5em;
 	}
