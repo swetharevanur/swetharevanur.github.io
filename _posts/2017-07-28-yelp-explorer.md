@@ -8,9 +8,8 @@ An interactive query tool for Yelp data. Built using Bokeh version 0.12.6 and th
 
 I introduced a **credibility metric that integrates a business's rating and review count**. This ensures that 5-star establishments with 1000 reviews are given a higher score than 5-star establishments with 20 reviews.
 
-Interact with the widgets to query a subset of Yelp businesses to plot. Hover over the circles to see more information about each movie. The warmer the circle color, the higher the business's credibility score. The larger the circle, the more pricy the business is.
+Interact with the widgets to query a subset of Yelp businesses to plot. Hover over the circles to see more information about each business. The warmer the circle color, the higher the business's credibility score. The larger the circle, the more pricy the business is.
 
 <iframe src="https://player.vimeo.com/video/227491238" width="800" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<br>
 <br>
 Inspired by the [Bokeh IMDb demo](https://demo.bokehplots.com/apps/movies).
