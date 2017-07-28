@@ -18,4 +18,3 @@ The warmer the circle color, the higher the business's credibility score. The la
 <br>
 <br>
 Inspired by the [Bokeh IMDb demo](https://demo.bokehplots.com/apps/movies).
-See [Bokeh IMDb demo](https://github.com/swetharevanur/dataviz/tree/master/yelp_explorer).
