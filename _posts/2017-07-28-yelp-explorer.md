@@ -2,16 +2,19 @@
 layout: post
 title: Yelp Explorer
 description: Interactive Query Tool for Yelp Data
-image: assets/images/unemployment/map.svg
+image: assets/images/yelp-explorer/foodtable.jpg
 ---
-<link rel="stylesheet" href="http://cdn.pydata.org/bokeh/release/bokeh-0.9.0.min.css" type="text/css" />
-<script type="text/javascript" src="http://cdn.pydata.org/bokeh/release/bokeh-0.9.0.min.js">
-</script>
-<script type="text/javascript">Bokeh.set_log_level("info");
-</script>
-<script src="http://localhost:5006/main/autoload.js?bokeh-autoload-element=681d0fb3-776b-4b56-a94b-93bbc965be68&bokeh-app-path=/main&bokeh-absolute-url=http://localhost:5006/main" id="681d0fb3-776b-4b56-a94b-93bbc965be68" data-bokeh-model-id="" data-bokeh-doc-id="">
-</script>
+An interactive query tool for Yelp data. Built using Bokeh version 0.12.6 and the Yelp Fusion API. See [source](https://github.com/swetharevanur/dataviz/tree/master/yelp_explorer).
 
+I introduced a credibility metric that integrates a business's rating and review count. This ensures that 5-star establishments with 1000 reviews are given a higher score than 5-star establishments with 20 reviews.
+
+Interact with the widgets to query a subset of Yelp businesses to plot. Hover over the circles to see more information about each movie.
+
+I introduced a credibility metric that integrates a business's rating and review count. This ensures that 5-star establishments with 1000 reviews are given a higher score than 5-star establishments with 20 reviews.
+
+The warmer the circle color, the higher the business's credibility score. The larger the circle, the more pricy the business is.
+
+<img src="https://swetharevanur.github.io/assets/images/unemployment/map.svg" alt="" style="width:100%;height:100%;"/>
 <br>
 <br>
-
+Inspired by the [Bokeh IMDb demo](https://demo.bokehplots.com/apps/movies).
