@@ -10,7 +10,7 @@ I introduced a **credibility metric that integrates a business's rating and revi
 
 Interact with the widgets to query a subset of Yelp businesses to plot. Hover over the circles to see more information about each movie. The warmer the circle color, the higher the business's credibility score. The larger the circle, the more pricy the business is.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RQKgADzChSQ" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/227491238" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <br>
 <br>
 Inspired by the [Bokeh IMDb demo](https://demo.bokehplots.com/apps/movies).
