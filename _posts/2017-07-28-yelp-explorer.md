@@ -4,6 +4,13 @@ title: Yelp Explorer
 description: Interactive Query Tool for Yelp Data
 image: assets/images/unemployment/map.svg
 ---
+<head> 
+  <link rel="stylesheet" href="http://cdn.pydata.org/bokeh/release/bokeh-0.9.0.min.css" type="text/css" />
+  <script type="text/javascript" src="http://cdn.pydata.org/bokeh/release/bokeh-0.9.0.min.js"></script>
+  <script type="text/javascript">
+    Bokeh.set_log_level("info");
+  </script>
+</head>
 
 <body>
   <script
@@ -13,6 +20,7 @@ image: assets/images/unemployment/map.svg
     data-bokeh-doc-id=""
 ></script>
 </body>
+
 
 <br>
 <br>
