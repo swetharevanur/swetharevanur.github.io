@@ -1,7 +1,7 @@
 ---
 layout: tagpage
-title: "#robotics"
-tag: robotics
+title: "#humanitarian-computing"
+tag: humanitarian-computing
 ---
 <ul>
 	<li>
