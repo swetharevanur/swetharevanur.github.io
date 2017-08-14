@@ -3,7 +3,7 @@ title: Integrative Reinforcement Learning for Optimized Robotic Control
 short: RL for Robotics
 layout: project_info
 date: Jun 2017 - Present
-tags: internship machine-learning robotics
+tags:robotics internship machine-learning
 ---
 
 <div class="row 200%">
