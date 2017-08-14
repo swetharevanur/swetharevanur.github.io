@@ -18,7 +18,7 @@
 			<span>[
 				{% for tag in page.tags %}
 					{% capture tag_name %}{{ tag }}{% endcapture %}
-					{{ tag_name | split:' '}}
+					{% assign tag_name = tag_name | split:' ' %}
 					{% for link in tag_name %}
 						<a href="/tag/{{ link }}"><code class="highligher-rouge"><nobr>{{ link }}</nobr></code>&nbsp;</a>
 					{% endfor %}
