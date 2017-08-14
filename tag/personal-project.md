@@ -1,7 +1,7 @@
 ---
 layout: tagpage
-title: "#internship"
-tag: internship
+title: "#personal-project"
+tag: personal-project
 ---
 <ul>
 	<li>
