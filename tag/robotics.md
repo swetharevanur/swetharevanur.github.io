@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: robotics"
+title: "#robotics"
 tag: robotics
 ---
 <ul>

@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: internship"
+title: "#internship"
 tag: internship
 ---
 <ul>
