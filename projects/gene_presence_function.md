@@ -3,7 +3,7 @@ title: A Cross-Platform Framework to Computationally Characterize Gene Presence 
 short: Big Data-Driven Precision Medicine
 layout: project_info
 date: Jun 2014 - Sept 2015
-tags: internship|bioinformatics
+tags: internship bioinformatics
 ---
 
 <div class="row 200%">
