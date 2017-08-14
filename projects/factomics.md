@@ -1,5 +1,5 @@
 ---
-title: Factomics: A Cloud-Enabled Web Portal Facilitating Disease Causation Analysis
+title: Factomics - A Cloud-Enabled Web Portal Facilitating Disease Causation Analysis
 short: Factomics
 layout: project_info
 date: Nov 2013 - May 2014
