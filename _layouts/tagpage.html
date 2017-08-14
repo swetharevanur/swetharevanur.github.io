@@ -17,14 +17,7 @@
 		<header class="major">
 			<h1>Tag: {{ page.tag }}</h1>
 		</header>
-		<ul>
-			{% for post in site.tags[page.tag] %}
-				<li>
-					<span class="post-date">{{ post.date | date_to_string }}</span>
-        			<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-				</li>
-			{% endfor %}
-		</ul>
+		{{content}}
 	</div>
 </section>
 
