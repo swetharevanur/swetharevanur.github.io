@@ -16,11 +16,14 @@
 		<header class="major">
 			<h3>{{ page.title }}</h3>
 			<span>[
-  {% for tag in page.tags %}
-    {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
-  {% endfor %}
-]</span>
+				{% for tag in page.tags %}
+					{% capture tag_name %}{{ tag }}{% endcapture %}
+					{{ tag_name | split:' '}}
+					{% for link in tag_name %}
+						<a href="/tag/{{ link }}"><code class="highligher-rouge"><nobr>{{ link }}</nobr></code>&nbsp;</a>
+					{% endfor %}
+				{% endfor %}
+			]</span>
 		</header>
 		<!--{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}-->
 		<p>{{ content }}</p>
