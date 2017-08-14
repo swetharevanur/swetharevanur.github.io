@@ -8,7 +8,7 @@ date: Jun 2016 - Sept 2016
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 		<div class="box">
-			<b><i>Emerging Compute Lab, HP Inc.</i></b>
+			<b><i>Emerging Compute Lab, HP</i></b>
 			<br><br>
 			<strong>Technologies:</strong> R
 			<br>
