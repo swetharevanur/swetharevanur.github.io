@@ -1691,6 +1691,10 @@
 			color: #53e3fb !important;
 		}
 
+		a.tag {
+			border-bottom-color: transparent;
+		}
+
 	strong, b {
 		color: #ffffff;
 		font-weight: 600;
