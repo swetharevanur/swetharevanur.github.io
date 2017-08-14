@@ -20,6 +20,7 @@
 					{% capture tag_name %}{{ tag }}{% endcapture %}
 					{% assign tag_name = tag_name | split:' ' %}
 					{% for link in tag_name %}
+						{% assign link = link | split:' ' | strip %}
 						<a href="/tag/{{ link }}"><code class="highligher-rouge"><nobr>{{ link }}</nobr></code>&nbsp;</a>
 					{% endfor %}
 				{% endfor %}
