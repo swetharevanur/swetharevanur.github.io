@@ -1,20 +1,8 @@
+{% if site.tags != "" %}
+    {% include collecttags.html %}
+{% endif %}
+
 <section id="cd-timeline" class="cd-container">
-        <!-- TAG CLOUD --> 
-        {% if site.tags != "" %}
-            {% include collecttags.html %}
-        {% endif %}
-
-        <span>[
-            {% for tag in site.tags %}
-                {% capture tag_name %}{{ tag }}{% endcapture %}
-                {% assign tag_name = tag_name | split:' ' %}
-                {% for link in tag_name %}
-                    {% assign link = link | split:' ' | strip %}
-                    <a class="tag" href="/tag/{{ link }}"><code class="highligher-rouge"><nobr>#{{link}}</nobr></code>&nbsp;</a>
-                {% endfor %}
-            {% endfor %}
-        ]</span>
-
         <!-- PROJECT 1 -->
         <div class="cd-timeline-block">
                 <div class="cd-timeline-img">
@@ -126,6 +114,22 @@
         </div> <!-- cd-timeline-block -->
 
 </section> <!-- cd-timeline -->
+
+        <!-- TAG CLOUD --> 
+        
+
+        <span>[
+            {% for tag in site.tags %}
+                {% capture tag_name %}{{ tag }}{% endcapture %}
+                {% assign tag_name = tag_name | split:' ' %}
+                {% for link in tag_name %}
+                    {% assign link = link | split:' ' | strip %}
+                    <p>swetha</p>
+                    <a class="tag" href="/tag/{{ link }}"><code class="highligher-rouge"><nobr>#{{link}}</nobr></code>&nbsp;</a>
+                {% endfor %}
+            {% endfor %}
+        ]</span>
+
 
 <style type="text/css">
         {% include timeline_style.css %}
