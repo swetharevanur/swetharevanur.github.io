@@ -2,13 +2,46 @@
 layout: archive
 ---
 <div class="post">
-<h1>Tag: {{ page.tag }}</h1>
-<ul>
-{% for post in site.tags[page.tag] %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
-    {{ post.description }}
-  </li>
-{% endfor %}
-</ul>
+
+
 </div>
 <hr>
+
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+
+    {% include header.html %} 
+    
+    
+<!-- Main -->
+<div id="main" class="alt">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>Tag: {{ page.tag }}</h1>
+		</header>
+		<ul>
+			{% for post in site.tags[page.tag] %}
+				<li>
+					<span class="post-date">{{ post.date | date_to_string }}</span>
+        			<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+				</li>
+			{% endfor %}
+		</ul>
+	</div>
+</section>
+
+
+</div>
+
+    {% include footer.html %}
+
+</body>
+
+</html>
