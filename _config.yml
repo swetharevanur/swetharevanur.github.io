@@ -31,6 +31,7 @@ linkedin_url: https://www.linkedin.com/in/swetharevanur
 pinterest_url:
 slack_url:
 twitter_url: 
+google_analytics: UA-104627130-1
 
 # Build settings
 markdown: kramdown
