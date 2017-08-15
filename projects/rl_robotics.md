@@ -17,7 +17,7 @@ tags: internship machine-learning robotics
 			<br>
 			<strong>Honors:</strong>
 			<ul>
-				<li><i>Aug 2017, </i>Invited speaker at the HP Labs global all-employee meeting with the company's CTO.</li>
+				<li><i>Aug 2017, </i>Invited speaker at the HP Labs global all-employee meeting with the company's CTO</li>
 				<li><i>Aug 2017, </i>Featured in <a href="http://newsblog.ext.hp.com/t5/HP-newsroom-blog/Summer-2017-interns-at-HP-Labs-Swetha-Revanur/ba-p/1019">HP Intern Profile</a></li>
 			</ul>
 		</div>
