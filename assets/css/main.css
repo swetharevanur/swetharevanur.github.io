@@ -1695,6 +1695,11 @@
 			border-bottom-color: transparent;
 		}
 
+		#timeline-link {
+			color: #1A222C;
+			font-size: 10pt;
+		}
+
 	strong, b {
 		color: #ffffff;
 		font-weight: 600;
