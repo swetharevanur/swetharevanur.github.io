@@ -1698,10 +1698,6 @@
 		#timeline-link {
 			color: #1A222C;
 			font-size: 10pt;
-		}
-
-		a.timeline-link:hover {
-			color: #1A222C;
 			font-weight: bold;
 		}
 
