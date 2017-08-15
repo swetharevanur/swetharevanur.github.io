@@ -1700,7 +1700,7 @@
 			font-size: 10pt;
 		}
 
-		#timeline-link:hover {
+		a.timeline-link:hover {
 			color: #1A222C;
 			font-weight: bold;
 		}
