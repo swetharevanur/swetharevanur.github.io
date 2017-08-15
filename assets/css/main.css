@@ -1700,6 +1700,11 @@
 			font-size: 10pt;
 		}
 
+		#timeline-link {
+			color: #1A222C;
+			font-weight: bold;
+		}
+
 	strong, b {
 		color: #ffffff;
 		font-weight: 600;
