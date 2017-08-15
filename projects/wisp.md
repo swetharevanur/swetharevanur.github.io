@@ -3,7 +3,7 @@ title: Wisp - An Android App to Promote Youth Tobacco Abstinence
 short: Wisp
 layout: project_info
 date: Feb 2015 - Jun 2015
-tags: personal-project humanitarian-computing
+tags: humanitarian-computing personal-project
 ---
 
 <div class="row 200%">

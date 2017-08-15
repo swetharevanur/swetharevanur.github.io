@@ -3,7 +3,7 @@ title: Factomics - A Cloud-Enabled Web Portal Facilitating Disease Causation Ana
 short: Factomics
 layout: project_info
 date: Nov 2013 - May 2014
-tags: personal-project bioinformatics
+tags: bioinformatics personal-project
 ---
 
 <div class="row 200%">

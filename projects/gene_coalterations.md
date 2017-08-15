@@ -3,7 +3,7 @@ title: A Machine Learning Framework for Multi-Omics Discovery and Characterizati
 short: ML for Gene Discovery
 layout: project_info
 date: Jun 2015 - May 2016
-tags: internship bioinformatics machine-learning
+tags: bioinformatics internship machine-learning
 ---
 
 <div class="row 200%">

@@ -3,7 +3,7 @@ title: Multi-Dimensional Genomic Data Analysis to Correlate a Disease and its Co
 short: Disease Correlation
 layout: project_info
 date: Oct 2012 - Apr 2014
-tags: personal-project bioinformatics
+tags: bioinformatics personal-project
 ---
 
 <div class="row 200%">

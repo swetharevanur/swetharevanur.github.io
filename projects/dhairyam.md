@@ -3,7 +3,7 @@ title: Dhairyam - A Web Portal for India's Sanitation Data
 short: Dhairyam
 layout: project_info
 date: Mar 2015 - Present
-tags: personal-project humanitarian-computing
+tags: humanitarian-computing personal-project
 ---
 
 <div class="row 200%">
