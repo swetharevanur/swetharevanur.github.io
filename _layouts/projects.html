@@ -13,16 +13,15 @@
         {% include timeline.html %}
 
         <section id="two">
-            <div class="inner">
-                <!--
-                <header class="major">
-                    <h2>Massa libero</h2>
-                </header>
-                <p>{{ content }}</p>
-                -->
-                <ul class="actions">
+            <div class="row">
+                <div class="6u 12u$(small)">
+                    <ul class="actions">
                     <li><a href="project_archive.html" class="button next">See All</a></li>
                 </ul>
+                </div>
+                <div class="6u$ 12u$(small)">
+                    {% include tagcloud.html %}
+                </div>
             </div>
         </section>
     </div>
