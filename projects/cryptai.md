@@ -18,13 +18,14 @@ tags: machine-learning personal-project
 			<strong>Honors:</strong>
 			<ul>
 				<li><i>Oct 2017, </i>Best Re-imagination of Markets, Nasdaq</li>
-        <li><i>Oct 2017, </i>Best Finance Hack, Capital One</li>
+        			<li><i>Oct 2017, </i>Best Finance Hack, Capital One</li>
 				<li><i>Oct 2017, </i>Top 5 Hack, Cal Hacks</li>
 			</ul>
+			<strong>Links:</strong>
+			<ul>
+				<li><a href="https://cryptai.000webhostapp.com/">Demo Site</a></li>
+        			<li><a href="https://devpost.com/software/cryptai">Devpost</a></li>
+			</ul>	
 		</div>
-	</div>
-	
-	<div class="6u 12u$(medium)">
-		<iframe src="https://devpost.com/software/cryptai" height="500px" width = "100%"></iframe>
 	</div>
 </div>
