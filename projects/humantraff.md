@@ -15,7 +15,7 @@ tags: course humanitarian-computing machine-learning
 			<br>
 			<strong>Contributions:</strong> team project
 			<br>
-      <strong>Find our project on <a href="https://github.com/swetharevanur/cs221-final-project">GitHub</a></strong>
+      			Find our project on <a href="https://github.com/swetharevanur/cs221-final-project">GitHub</a>
 		</div>
 	</div>
 </div>
