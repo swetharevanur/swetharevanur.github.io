@@ -1,5 +1,5 @@
 ---
-title: A Next-Gen Cryptocurrency Investment Engine
+title: CryptAI - A Next-Gen Cryptocurrency Investment Engine
 short: CryptAI
 layout: project_info
 date: Oct 2017 - Present
