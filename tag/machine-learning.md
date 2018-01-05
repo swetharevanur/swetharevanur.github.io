@@ -5,7 +5,15 @@ tag: machine-learning
 ---
 <ul>
 	<li>
-		<span class="post-date">Jun 2017 - Present &mdash; </span>
+		<span class="post-date">Oct 2017 - Present &mdash; </span>
+    	<a class="post-link" href="https://swetharevanur.github.io/projects/cryptai.html">CryptAI: A Deep Learning-Powered Cryptocurrency Investment Engine</a>
+	</li>
+	<li>
+		<span class="post-date">Sept 2017 - Dec 2017 &mdash; </span>
+    	<a class="post-link" href="https://swetharevanur.github.io/projects/humantraff.html">A Semi-Supervised Deep Learning Framework for the Automated Detection of Online Human Trafficking</a>
+	</li>
+	<li>
+		<span class="post-date">Jun 2017 - Aug 2017 &mdash; </span>
     	<a class="post-link" href="https://swetharevanur.github.io/projects/rl_robotics.html">Integrative Reinforcement Learning for Optimized Robotic Control</a>
 	</li>
 	<li>
