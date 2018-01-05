@@ -23,4 +23,8 @@ tags: machine-learning personal-project
 			</ul>
 		</div>
 	</div>
+	
+	<div class="6u 12u$(medium)">
+		<iframe src="https://cryptai.000webhostapp.com/" height="500px" width = "100%"></iframe>
+	</div>
 </div>
