@@ -3,7 +3,7 @@ title: A Next-Gen Cryptocurrency Investment Engine
 short: CryptAI
 layout: project_info
 date: Oct 2017 - Present
-tags: hackathon machine-learning
+tags: machine-learning personal-project
 ---
 
 <div class="row 200%">
