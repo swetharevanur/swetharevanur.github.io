@@ -1,5 +1,5 @@
 ---
 title: Projects
 layout: projects
-nav-menu: true
+nav-menu: false
 ---
