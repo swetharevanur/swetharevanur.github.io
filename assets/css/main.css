@@ -2084,7 +2084,7 @@
 			background: #ffffff;
 			border-color: #007EA8;
 			content: '\f00c';
-			color: #1A222C/*#242943*/;
+			color: #ffffff/*#242943*/;
 		}
 
 		input[type="checkbox"]:focus + label:before,
@@ -2165,7 +2165,7 @@
 		.icon.alt:before {
 			background-color: #ffffff;
 			border-radius: 100%;
-			color: #1A222C /*#242943*/;
+			color: #ffffff /*#242943*/;
 			display: inline-block;
 			height: 2em;
 			line-height: 2em;
@@ -2630,7 +2630,7 @@
 		.button.special {
 			background-color: #ffffff;
 			box-shadow: none;
-			color: #1A222C/*#242943*/;
+			color: #ffffff/*#242943*/;
 		}
 
 			input[type="submit"].special:hover, input[type="submit"].special:active,
@@ -2643,7 +2643,7 @@
 			.button.special:hover,
 			.button.special:active {
 				background-color: #007EA8;
-				color: #1A222C/*#242943*/ !important;
+				color: #ffffff/*#242943*/ !important;
 			}
 
 			input[type="submit"].special:active,
@@ -3074,7 +3074,7 @@
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #1A222C;
+		background-color: #ffffff;
 		/*#2a2f4a;*/
 		box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.15);
 		cursor: default;
@@ -3106,7 +3106,7 @@
 				-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 				transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 				background-color: #ffffff;
-				color: #1A222C/*#242943*/;
+				color: #ffffff/*#242943*/;
 				display: inline-block;
 				line-height: 1.65em;
 				margin-right: 0.325em;
@@ -3374,7 +3374,7 @@
 			-webkit-pointer-events: none;
 			-ms-pointer-events: none;
 			pointer-events: none;
-			background-color: #1A222C/*#242943*/;
+			background-color: #ffffff/*#242943*/;
 			content: '';
 			display: block;
 			height: 100%;
@@ -3553,7 +3553,7 @@
 /* Main */
 
 	#main {
-		background-color: #1A222C/*#2a2f4a*/;
+		background-color: #ffffff/*#2a2f4a*/;
 	}
 
 		#main > * {
