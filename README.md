@@ -12,4 +12,4 @@ Last updated 08/13/2018.
 
 [CodyHouse](https://codyhouse.co/)
 
-- To change background color of home page go to `_layouts/home.html`
+- To change background or font colors of home page go to `_layouts/home.html`
