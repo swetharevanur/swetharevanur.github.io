@@ -1695,8 +1695,13 @@
 			border-bottom-color: transparent;
 		}
 
+	strong {
+		color: #007EA8;
+		font-weight: 600;
+	}
 
-	strong, b {
+
+	b {
 		color: #CB330F;
 		font-weight: 600;
 	}
@@ -1710,7 +1715,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #ffffff;
+		color: #CB330F;
 		font-weight: 600;
 		line-height: 1.65;
 		margin: 0 0 1em 0;
