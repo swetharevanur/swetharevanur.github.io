@@ -1,15 +1,15 @@
 ---
-title: A Semi-Supervised Deep Learning Framework for the Automated Detection of Online Human Trafficking
-short: Detecting Trafficking
+title: Automated Visual Weak Supervision for Object Recognition in Videos
+short: Weak Supervision for Videos
 layout: project_info
-date: Sept 2017 - Dec 2017
-tags: course humanitarian-computing machine-learning
+date: Spring 2018
+tags: course machine-learning
 ---
 
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 		<div class="box">
-			<b><i>CS 221, Stanford University</i></b>
+			<b><i>CS 231N, Stanford University</i></b>
 			<br><br>
 			<strong>Technologies:</strong> Python, TensorFlow, NLTK
 			<br>
