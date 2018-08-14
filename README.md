@@ -1,8 +1,8 @@
 # swetharevanur.github.io
 
-Built using Jekyll. Includes project timeline and data visualization portfolio, along with contact form.
+Built using Jekyll.
 
-Last updated 06/30/2017.
+Last updated 08/13/2018.
 
 **Credits**
 
