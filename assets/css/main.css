@@ -1640,7 +1640,7 @@
 /* Type */
 
 	body, input, select, textarea {
-		color: #ffffff;
+		color: #CB330F;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 17pt;
 		font-weight: 300;
@@ -1684,22 +1684,17 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #9bf1ff !important;
+			color: #007EA8 !important;
 		}
 
 		a:active {
-			color: #53e3fb !important;
+			color: #007EA8 !important;
 		}
 
 		a.tag {
 			border-bottom-color: transparent;
 		}
 
-		#timeline-link {
-			color: #1A222C;
-			font-size: 10pt;
-			font-weight: bold;
-		}
 
 	strong, b {
 		color: #ffffff;
