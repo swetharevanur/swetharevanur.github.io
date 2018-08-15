@@ -19,27 +19,3 @@
 		<a href="#menu">Menu</a>
 	</nav>
 </header>
-
-<!-- Menu -->
-<nav id="menu">
-	<ul class="links">
-        {% for page in site.pages %}
-		    {% if page.layout == "home" %}
-		        <li><a href="{{ "" | absolute_url }}">{{ page.title }}</a></li>
-	    	{% endif %}
-		{% endfor %}
-		{% for page in site.pages %}
-		    {% if page.layout != "home" %}
-			{% if page.nav-menu == true %}
-		        	<li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-			{% endif %}
-		    {% endif %}
-		{% endfor %}
-	</ul>
-	<ul class="actions vertical">
-		<li><a href="https://drive.google.com/file/d/1VyE_gR-DyD9gcWYyFNxzRzrU0_36-alD/view" target="_blank" class="button special fit">Resume</a></li>
-	</ul>
-	<ul class="actions vertical">
-		<li><a href="http://linkedin.com/in/swetharevanur" target="_blank" class="button fit">Connect on LinkedIn</a></li>
-	</ul>
-</nav>
