@@ -2,14 +2,7 @@
 
 Built using Jekyll.
 
-Last updated 08/13/2018.
+Last updated 08/14/2018.
 
-**Credits**
-
-[Andrew Banchich](https://andrewbanchich.gitlab.io/forty-jekyll-theme/)
-
-[Nathan Randecker](https://github.com/nrandecker/particle)
-
-[CodyHouse](https://codyhouse.co/)
-
+**Notes for future me**
 - To change background or font colors of home page go to `_layouts/home.html`
